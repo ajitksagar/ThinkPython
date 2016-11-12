@@ -38,4 +38,4 @@ def ver_line(n):
     return ver_str
 
 
-draw_grid(20)
+draw_grid(5)
